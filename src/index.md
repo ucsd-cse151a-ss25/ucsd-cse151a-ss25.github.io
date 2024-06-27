@@ -1,6 +1,6 @@
 ![doodle](./doodle.jpg)
 
-# UCSD CSE15L S24 Syllabus and Logistics
+# UCSD CSE151A SS1 2024 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
@@ -11,30 +11,30 @@
 [Grading](#grading) -
 [Policies](#policy)
 
-In this course, we'll explore a number of **Software Tools & Techniques** that are used commonly by developers in their day-to-day work. You'll learn how to manage files and programs from the command line, and you'll get direct practice (and build muscle memory!) with keyboard shortcuts, tricks, and techniques for managing data and programs. Throughout, you'll exercise and improve your skills in program understanding and debugging.
+In this course, we'll explore a number of **Machine learning concepts and techniques** that are used commonly by developers in their day-to-day work. You'll learn A, B, C.
 
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
 
-- Lecture: [Warren Lecture Hall 2207](https://map.concept3d.com/?id=1005#!m/246292), Mon/Wed (check your schedule)
-- Labs: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Tuesday (check your schedule)
-- “Skill Demonstration” Exams: Flexible scheduling in weeks 3, 5, 7, and 9
-  - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill demos
-  - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill demos
-- Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 2 Make ups for Skill Demos.
+- Lecture: [TBA](https://map.concept3d.com/), Mon-Thurs (check your schedule)
+- Discussion: [TBA](https://map.concept3d.com/) Tuesday (check your schedule)
+- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
+  - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
+  - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
+- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter. Maximum of 2 Make ups for Skill Assessment.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
-- Code Q&A Forum: [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
+- Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
-  - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
+  - Not free 
 
 ## Office Hours Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src=""></iframe>
 
 ## Schedule
 
@@ -42,143 +42,31 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
-### Week 10 - Wrapping Up
-- [Lab 10 Activities](./week10/index.md)
-- Deadlines:
-  - Quiz 10 Due **Wednesday, June 5, 9am**
-  - Lab Report 5 Due (No Resubmission) **Wednesday, June 5, 10pm**
-  - Lab Report 4 Resubmission Due **Wednesday, June 5, 11:59pm**
-- Lecture Materials:
-  - [Monday & Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1vLVcpbxBnsZoybxzIRVzt3YVubtUVAiW/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-  - [Monday & Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1bi0ZLuVb399Cw0K6ArVlZsUJWG7WkBbL/view?usp=sharing)
-  
-### Week 9 - Code Review/It Works on My Machine
-- [Lab 9 Activities](./week9/index.md)
-- Deadlines:
-  - Quiz 9 Due **Wednesday, May 29, 9am**
-  - Lab Report 5 Due **Wednesday, June 5, 10pm**
-  - Lab Report 4 Resubmission Due **Wednesday, June 5, 11:59pm**
-- Lecture Materials:
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1fajzQYbx-58n6lbKenDEpNuj8dYBkTH9/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1whfGbGpm_JlxohhfS_TMjAvUjTpH1rP1/view?usp=sharing)
-
-### Week 8 – Doing it All from the Command Line
-
-- [Lab 8 Activities](./week8/index.md)
-- Deadlines:
-  - Quiz 8 Due **Wednesday, May 22, 9am**
-  - Lab Report 3 Resubmission Due **Wednesday, May 22, 10pm**
-  - Lab Report 4 Due **Wednesday, May 22, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1E5iChRUNHxBsgKxqxFEn934gd88duM3W/view?usp=sharing)
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1IZHveydzgZcC_2Zxw02QiZjCGAjdU6ay/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/16aFiYik5XXcYYSggtj9MYle7rDg-qLgj/view?usp=drive_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1RbDN3sqSz2W0_nUUSjpZ2OgeFxhqlXhp/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-
-### Week 7 – Doing it All from the Command Line
-
-- [Lab 7 Activities](./week7/index.md)
-- Deadlines:
-  - Quiz 7 Due **Wednesday, May 15, 9am**
-  - Lab Report 3 Resubmission Due **Wednesday, May 22, 10pm**
-  - Lab Report 4 Due **Wednesday, May 22, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1gII7MgcFcO3zmhmUXzN3lxwsko-K0jWc/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/10Si0gmiWDdKHulEku3P1AIHL8NtWGiRg/view?usp=share_link)
-  - [Monday Presentation (Slides)](https://docs.google.com/presentation/d/1spPrbhbIzFTTH2-PykXBfrN3DYZ4geI0/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Presentation (PDF)](https://drive.google.com/file/d/1dcMvQtbw4iHqG3KaSAHEpRVbpa-F1gcn/view?usp=share_link)
-  - No Lecture/Lecture Handout Wednesday!
-
-### Week 6 – Scripting, CI, and Autograding
-
-- [Lab 6 Activities](./week6/index.md)
-- Deadlines:
-  - Quiz 6 Due **Wednesday, May 8, 9 am**
-  - Lab Report 2 Resubmission Due **Wednesday, May 8, 10 pm**
-  - Lab Report 3 Due **Wednesday, May 8, 10 pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/16GabVOQnu6V4pQq6-SsH0sCNXZSdbImH/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1IK5-AMJuSKYqx9uyquiXDEDzBXcIIm0t/view?usp=share_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/17DAOczk2ZKRUexAdHVNEZ7h7R7JcetXk/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/19NkFMx1euJP6wjv6pJ1ojNRNgerTwZ7X/view?usp=share_link)
-
-### Week 5 – File Exploration and Text Analysis from the Command Line
-
-- [Lab 5 Activities](./week5/index.md)
-- Deadlines:
-  - Quiz 5 Due **Wednesday, May 1, 9am**
-  - Lab Report 2 Resubmission Due **Wednesday, May 8, 10pm**
-  - Lab Report 3 Due **Wednesday, May 8, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1M8WTtOy30kY1zUE_wz5LD37fISr8kgxY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1dyX7sHrPPQo4Ym9d0JmdnLT8HtMedeHz/view?usp=share_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1kZoZFKM0BGyJtpfCA3x_6ZoFdAkMfPBd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1zTMsdfkl4aaNCgQlHaf504L3m4mygZ8U/view?usp=share_link)
-
-### Week 4 - Testing and File Manipulation
-
-- [Lab 4 Activities](./week4/index.md)
-- Deadlines:
-  - Quiz 4 Due **Wednesday, April 24, 9am**
-  - Lab Report 1 Resubmission Due **Wednesday, April 24, 10pm**
-  - Lab Report 2 Due **Wednesday, April 24, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1LSHz4H-I7H1WFAnEHRlozzFP2VYqVLfo/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1NXIL8fczBH9P0ipu4s8bDEoF1aK8XEZ6/view?usp=share_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ReQPttijJ_sJIjg_va65kdUCMzX_S5sd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view?usp=share_link)
-
-
-### Week 3 - VSCode and Your Local Machine
-
-- [Lab 3 Activities](./week3/index.md)
-- Deadlines:
-  - Quiz 3 Due **Wednesday, April 17, 9am**
-  - Lab Report 1 Resubmission Due **Wednesday, April 24, 10pm**
-  - Lab Report 2 Due **Wednesday, April 24, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1Q207K_3xfZFjZ2rym9ie3XLZjBo8uvKb/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1iIC0GcET6Gmsr_Kz-MN1YblpBVSMcM6k/view?usp=share_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/127DMrEDOnEGvZ8OzIwbbsueraSTGuTrz/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1UzoVlYYJv_b7pr9iLpzp0ABB1zA-dPhA/view?usp=share_link)
-
-### Week 2 - URLs and Servers
-
-- [Lab 2 Activities](./week2/index.md)
-- Deadlines:
-  - Quiz 2 Due **Wednesday, April 10, 9am**
-  - Lab Report 1 Due **Wednesday, April 10, 10pm**
-- Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1UFvHNjY_P-N40PQ2xx3ZyORx3e0IVMLY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1ne0MDipt1TMKetBT-zwThdFpmRlTEIJt/view?usp=share_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1bi3dpYZieXCRDt9uKTY4YmCLeHWCXgZK/edit?usp=sharing&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1ywgivSm6FeMsZOT-yZPFtJ7Rh3VCp0zj/view?usp=share_link)
-
-### Week 1 - Markdown, URLs, and Paths
+### Week 1 - Data, Numpy, Matrices, Error/Loss functions and Regression
 
 - [Lab 1 Activities](./week1/index.md)
 - Deadlines:
-  - Quiz 1 Due **Wednesday, April 3, 9am**
-  - Lab Report 1 Due **Wednesday, April 10, 10pm**
+  - Quiz 1 Due **TBA**
+  - Homework 1 Due **TBA**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1cxIwoXDNbln7vfYcr-LpF1aXfUyUT7UN/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Z3vDLy-9_ZGhuRo9qDrNiaDPC3PQ-6P8/view?usp=share_link)
+<!--
+  - [Monday Lecture Slides (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
+  - [Wednesday Lecture Slides (PDF)](https://drive.google.com/file/d/1Z3vDLy-9_ZGhuRo9qDrNiaDPC3PQ-6P8/view?usp=share_link)
+-->
 
 ## Syllabus
 
 There are several components to the course:
 
-- **Lab sessions**
+- **Discussion sessions**
 - **Lecture sessions**
 - **Weekly quizzes**
-- **Lab reports/portfolio posts**
-- **Skill demonstrations**
+- **Homework/PAs**
+- **Skill assessments**
 
-### Labs
+### Discussion
 
-The course's lab component meets for 2 hours. In each lab you'll switch between
+The course's discussion component meets for 2 hours. In each discsussion you'll switch between
 working on your own, working in pairs, and participating in group discussions
 about your approach, lessons learned, programming problems, and so on.
 
@@ -223,13 +111,9 @@ see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
 
-### Lab Reports/Portfolio Posts
+### Homeworks
 
-Every other Wednesday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
-work from the previous week or two of lab material. This will take the form of
-a blog post on a personal site you created in the first week.  At the end of
-the quarter this means you'll have a personal web site with 5 posts detailing
-what you learned.
+Every Monday starting week 2, homework will release (that's in weeks 2, 3, 4, 4 and 5) and you will submit on Sunday via Gradescope the ipynb file **(Note: Not a pdf!)**.
 
 For each post, our staff will review it and give a **0-3** score along with feedback:
 
@@ -245,7 +129,7 @@ After each lab report is graded, you'll have a chance to *resubmit* it based on 
 
 This is also the only late policy for lab reports. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission.
 
-### Skill Demonstrations
+### Skill Assessments
 
 Several times during the quarter, you will complete a _skill demonstrations_
 -- this course's version of exams. You'll be given a problem to practice in
@@ -266,6 +150,9 @@ scheduling them).
 Skill demonstrations will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation. Scheduling of exams will open on April 8, 2023.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.   
+
+## Group Projet
+TBA
 
 ## Grading
 
