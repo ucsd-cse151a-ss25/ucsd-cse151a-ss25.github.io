@@ -17,8 +17,8 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [TBA](https://map.concept3d.com/), Mon-Thurs (check your schedule)
-- Discussion: [TBA](https://map.concept3d.com/) Tuesday (check your schedule)
+- Lecture: [Wellman Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Monday-Thursday 9:30-10:50am 
+- Discussion: [Wellman Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Wedneday 11:00a-12:50p
 - “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
@@ -31,7 +31,11 @@ This web page serves as the main source of announcements and resources for the c
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
-  - Not free 
+  - Not free: 
+- Data Repositories:
+  - [UCI Machine Learning Data Repo](https://archive.ics.uci.edu/ml/index.php)
+  - [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)
+  - [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ## Office Hours Calendar
 <iframe src=""></iframe>
