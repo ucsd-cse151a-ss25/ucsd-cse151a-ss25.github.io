@@ -136,7 +136,7 @@ Skill assessments will take place in CSE B250, **unless you have an AFA letter**
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.   
 
-## Group Projet
+### Group Projet
 The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details TBA!
 
 ## Grading
