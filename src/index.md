@@ -50,10 +50,10 @@ you can know roughly where we are headed.
 
 ### Week 1 - Data, Numpy, Matrices, Error/Loss functions and Regression
 
-- [Lab 1 Activities](./week1/index.md)
+- [Discussion 1 Activities](./week1/index.md)
 - Deadlines:
-  - Quiz 1 Due **TBA**
-  - Homework 1 Due **TBA**
+  - Quiz 1 Due 7/9/2024
+  - Homework 1 Due 7/9/2024
 - Lecture Materials:
 <!--
   - [Monday Lecture Slides (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
@@ -69,6 +69,7 @@ There are several components to the course:
 - **Weekly quizzes**
 - **Homework/PAs**
 - **Skill assessments**
+- **Group project**
 
 ### Discussion
 
