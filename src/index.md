@@ -123,7 +123,7 @@ After each homework (**except the last homework**) is graded, you'll have a chan
 - For an original score of **0** or **1**, you can raise your score to **2** (but not to **3**)
 - For an original score of **2**, you can raise your score to **3**
 
-This is also the only late policy for lab reports. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. One homework will be dropped. This is the only policy for excused homework regardless of the reason.
+This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. One homework will be dropped. This is the only policy for excused homework regardless of the reason.
 
 ### Skill Assessments
 
