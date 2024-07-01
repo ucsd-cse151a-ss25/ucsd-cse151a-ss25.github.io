@@ -1,4 +1,4 @@
-![ML Drawing](./ML_drawing_light.png)
+![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
 
 # UCSD CSE151A SS1 2024 Syllabus and Logistics
 
