@@ -149,22 +149,20 @@ The group project is milestone based and will consist of several milestones. Wor
 
 ## Grading
 
-Each component of the course has a minimum achievement level to get an A, B, or
-C in the course. You must reach that achievement level in _all_ of the
-categories to get an A, B, or C. A+'s will be assigned at the end of the quarter and only to students showing exemplary accomplishments and have shown strong collaboration with their peers.
+In order to get an A in the class it is recommended that you get an A in each component of the course. A+'s will be assigned at the end of the quarter and only to students showing exemplary accomplishments across all components of the course, and have shown strong collaboration with their peers.
 
 A table that contains the grading scheme data. Each row contains a name, a maximum percentage, and a minimum percentage.
-Letter Grade	Range
-A	100% to 94% </br>
-A-	< 94% to 90% </br>
-B+	< 90% to 87% </br>
-B 	< 87% to 84% </br>
-B-	< 84% to 80% </br>
-C+	< 80% to 77% </br>
-C	  < 77% to 74% </br>
-C-	< 74% to 70% </br>
-D   < 70% to 60% </br>
-F	  < 60%
+Letter Grade	Range <br>
+A	&nbsp;&nbsp;&nbsp; 100% to 94% <br>
+A-&nbsp; < 94% to 90% <br>
+B+&nbsp; < 90% to 87% <br>
+B &nbsp;&nbsp; < 87% to 84% <br>
+B-&nbsp; < 84% to 80% <br>
+C+&nbsp; < 80% to 77% <br>
+C &nbsp;&nbsp; < 77% to 74% <br>
+C-&nbsp; < 74% to 70% <br>
+D &nbsp;&nbsp; < 70% to 60% <br>
+F &nbsp;&nbsp; < 60%
 
 ## Policy
 
