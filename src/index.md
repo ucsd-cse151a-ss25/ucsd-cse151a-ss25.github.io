@@ -11,7 +11,7 @@
 [Grading](#grading) -
 [Policies](#policy)
 
-Machine learning has become one of the fastest growing and most interesting subfields of artificial intelligence and computer science. Although machine learning has been part of our daily lives for some time now, it's precense and power has become unprescedented. Machine learning will continue to evolve and revolutionize how we interact with machines, ourselves and the world around us. 
+Machine learning has become one of the fastest growing and most interesting subfields of artificial intelligence and computer science. Although machine learning has been part of our daily lives for some time now, it's presence and power has become unprescedented. Machine learning will continue to evolve and revolutionize how we interact with machines, ourselves and the world around us. 
 
 In this course, we'll explore a number of **Machine learning concepts and techniques** that are used commonly by developers in their day-to-day work. You'll learn how to interpret and analyze data, identify targets and plan your machine learning pipeline. This means selecting good/appropriate models and loss functions for training based on your data and goal. We will start with supervised learning (Regression, Classification), go over various loss functions and gradient descent optimization approaches, and end with unsupervised learning (Dimensional reduction, clustering, etc). If there is enough time, we will go over a special topics lecture.
 
@@ -133,17 +133,29 @@ The group project is milestone based and will consist of several milestones. Wor
 In order to get an A in the class it is recommended that you get an A in each component of the course. A+'s will be assigned at the end of the quarter and only to students showing exemplary accomplishments across all components of the course, and have shown strong collaboration with their peers.
 
 A table that contains the grading scheme data. Each row contains a name, a maximum percentage, and a minimum percentage.
-Letter Grade	Range <br>
-A	&nbsp;&nbsp;&nbsp; 100% to 94% <br>
-A-&nbsp; < 94% to 90% <br>
-B+&nbsp; < 90% to 87% <br>
-B &nbsp;&nbsp; < 87% to 84% <br>
-B-&nbsp; < 84% to 80% <br>
-C+&nbsp; < 80% to 77% <br>
-C &nbsp;&nbsp; < 77% to 74% <br>
-C-&nbsp; < 74% to 70% <br>
-D &nbsp;&nbsp; < 70% to 60% <br>
-F &nbsp;&nbsp; < 60%
+
+| Letter | Grade	Range |
+| --- | --- |
+A	| 100% to 94%
+A-| < 94% to 90%
+B+| < 90% to 87%
+B | < 87% to 84% 
+B-| < 84% to 80% 
+C+| < 80% to 77% 
+C | < 77% to 74% 
+C-| < 74% to 70%
+D |< 70% to 60% 
+F | < 60%
+
+The weighted breakdown of each category is as follows:
+
+| Category | Percentage |
+| --- | --- |
+Participation | 5%
+Quizzes | 10%
+Homeworks | 20%
+Group Project | 30%
+Skill Assessments | 35%
 
 ## Policy
 
@@ -232,7 +244,7 @@ grade, but do take them seriously before the end of the week so you're prepared.
 
 **I missed a homework deadline, what should I do?**
 
-A weeks after each homework deadline there is a late/resubmission deadline (except for week 5 homework).
+A week after each homework deadline there is a late/resubmission deadline (except for week 5 homework).
 You can resubmit then. See the homework section above for grading details
 about resubmissions.
 
