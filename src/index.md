@@ -19,8 +19,8 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Wellman Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Monday-Thursday 9:30-10:50am 
-- Discussion: [Wellman Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Wedneday 11:00a-12:50p
+- Lecture: [Warren Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Monday-Thursday 9:30-10:50am 
+- Discussion: [Warren Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Wedneday 11:00a-12:50p
 - “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
