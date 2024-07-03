@@ -44,9 +44,9 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Schedule
 
-The schedule below outlines topics, due dates, and links to assignments. The
+The schedule using the left side navigation bar outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
-you can know roughly where we are headed.
+you can know roughly where we are headed. If you do not see the weeks listed on the left, click the hamburger icon in the top left to reveal it.
 
 
 ## Syllabus
