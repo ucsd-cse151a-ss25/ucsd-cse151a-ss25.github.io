@@ -1,4 +1,4 @@
-# Week 2 
+# Week 2 - Non-Linear Regression, OLS, and Log Loss
 - Deadlines:
   - Quiz 2 Due 7/16/2024
   - Homework 1 Due 7/16/2024

@@ -3,7 +3,7 @@
 [Introduction to Machine Learning](./index.md)
 
 - [Week 1 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1/index.md)
-- [Week 2](./week2/index.md)
+- [Week 2 - Non-Linear Regression, OLS, and Log Loss](./week2/index.md)
 <!-- - [Week 3 - VSCode and Your Local Machine](./week3/index.md) -->
 <!-- - [Week 4 - Testing and File Manipulation](./week4/index.md) -->
 <!-- - [Week 5 – File Exploration and Text Analysis from the Command Line](./week5/index.md) -->
