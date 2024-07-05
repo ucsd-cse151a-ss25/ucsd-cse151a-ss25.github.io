@@ -1,7 +1,7 @@
 # Week 1 - Data, Numpy, Matrices, Error/Loss functions and Regression
 - Deadlines:
-  - Quiz 1 Due 7/9/2024
-  - Homework 1 Due 7/16/2024
+  - Quiz 1 Due 7/7/2024
+  - Homework 1 Due 7/14/2024
 
 ## Week 1 Lecture Material
   - Lecture Slides 
