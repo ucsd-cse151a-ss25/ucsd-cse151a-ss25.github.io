@@ -17,4 +17,4 @@
     - [Processing California Housing Notebook](https://colab.research.google.com/drive/1SkDVZZrFwxzdPUkcIeM2O24WlpQEZUXC?usp=sharing)
     - [Normality Testing Notebook](https://colab.research.google.com/drive/1jfAxnUzPJ2EjB34lpH06tbOSxbXwSlm5?usp=sharing)
 ## Week 2 Discussion
-  - Coming soon
+  - [Discussion Slides](https://drive.google.com/file/d/1rd3G05plKm6TlRpD2cCiUypNWqStD51L/view?usp=sharing)
