@@ -18,3 +18,4 @@
     - [Normality Testing Notebook](https://colab.research.google.com/drive/1jfAxnUzPJ2EjB34lpH06tbOSxbXwSlm5?usp=sharing)
 ## Week 2 Discussion
   - [Discussion Slides](https://drive.google.com/file/d/1rd3G05plKm6TlRpD2cCiUypNWqStD51L/view?usp=sharing)
+  - [Discussion Notebook](https://colab.research.google.com/drive/1PEHqSgYppuHkkyMnx4Jay89uUc5SCcdb?usp=sharing)
