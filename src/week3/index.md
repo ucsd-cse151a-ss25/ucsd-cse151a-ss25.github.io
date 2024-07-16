@@ -10,5 +10,6 @@
 - Notebooks
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [Perceptron Notebook](https://colab.research.google.com/drive/1tp11HBJKZYkf7Nje-E-iD5qlb_MgMQm_?usp=sharing)
+    - [ANN Notebook](https://colab.research.google.com/drive/15iqjgmQje208R-40Gaa7j-GuMu8WzQiQ?usp=sharing)
 ## Week 3 Discussion
 - Coming soon
