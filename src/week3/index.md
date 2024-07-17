@@ -7,6 +7,8 @@
 - Lecture Slides
     - [Slides PDF Perceptrons](https://drive.google.com/file/d/1iG0C8VBNbFpHCF6lnGUl-j95h6f_1QP9/view?usp=sharing)
     - [Slides PDF Adv. Neural Networks](https://drive.google.com/file/d/1YyhDSh-2wDyXbot02ZpA27oYSixIM7qp/view?usp=sharing)
+    - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1NcqyhVgYG2NrtsFRkuT_Rcf9ICWkxiIC/view?usp=sharing)
+    - [Slides PDF Convolutions](https://drive.google.com/file/d/1dl-p2Ox64lIFiP0DTWwhaUMt7p_CxRDi/view?usp=sharing)
 - Notebooks
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [Perceptron Notebook](https://colab.research.google.com/drive/1tp11HBJKZYkf7Nje-E-iD5qlb_MgMQm_?usp=sharing)
