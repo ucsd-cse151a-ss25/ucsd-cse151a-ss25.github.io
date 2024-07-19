@@ -107,7 +107,7 @@ For each post, our staff will review it and give a **0-3** score along with feed
 - **1** for a submission missing key components, or clear inaccuracies in multiple components
 - **0** for no submission, a blank submission, or a submission of something irrelevant
 
-After each homework (**except the last homework**) is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. The resubmission deadline is one week after the original deadline.
+After each homework (**except the last homework**) is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
 
 - For an original score of **0** or **1**, you can raise your score to **2** (but not to **3**)
 - For an original score of **2**, you can raise your score to **3**
