@@ -1,6 +1,6 @@
 # Week 3 - Neural Networks: ANNs, DNNs, and CNNs
 - Deadlines:
-    - Quiz 3 Due 7/21/2024
+    - Quiz 3 Due 7/22/2024
     - Homework 2 Due 7/22/2024
 
 ## Week 3 Lecture Material
