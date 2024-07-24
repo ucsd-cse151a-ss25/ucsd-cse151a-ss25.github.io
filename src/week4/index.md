@@ -10,5 +10,7 @@
 - Notebooks
     - [Convolution Notebook](https://colab.research.google.com/drive/1eT-8x_VfjGWURI8J4iUkM3TQhV_oFC-V?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
+    - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
 ## Week 4 Discussion
-- Coming soon!
+- [Discussion Slides](https://drive.google.com/file/d/1DUboAIoitn9QaL-ZXph_hyP8iDvEqv7-/view?usp=sharing)
+- [Discussion Notebook](https://colab.research.google.com/drive/1TRKiV1GRzRZAsgNsW6fvG7faRl0TgkmO?usp=sharing)
