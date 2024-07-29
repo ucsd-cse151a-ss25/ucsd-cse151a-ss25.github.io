@@ -6,7 +6,7 @@
 - [Week 2 - Non-Linear Regression, OLS, and Log Loss](./week2/index.md)
 - [Week 3 - Neural Networks: ANNs, DNNs, and CNNs](./week3/index.md)
 - [Week 4 - Classification: SVMs, Naive Bayes, KNN and Decision Trees](./week4/index.md)
-<!-- - [Week 5 – File Exploration and Text Analysis from the Command Line](./week5/index.md) -->
+- [Week 5 - Finishing Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction](./week5/index.md)
 <!-- - [Week 6 – Scripting, CI, and Autograding](./week6/index.md) -->
 <!-- - [Week 7 – Doing it All from the Command Line](./week7/index.md) -->
 <!-- - [Week 8 - Debuggers and Controlling Processes](./week8/index.md) -->
