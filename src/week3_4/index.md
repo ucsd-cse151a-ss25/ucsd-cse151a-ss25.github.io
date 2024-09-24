@@ -1,19 +1,22 @@
-# Week 3,4 - Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction
+# Week 3,4 - Non-Linear Regression, OLS, and Log Loss
 - Deadlines:
-    - Homework 2 due by 10/27/2024
+  - Homework 2 due by 10/27/2024
 
 ## Week 3,4 Lecture Material
-- Lecture Slides
-    - [Slides PDF KNNs](https://drive.google.com/file/d/1lLXjZ9w9js5n3_bfDIKN3WEkhU5zJgCd/view?usp=sharing)
-    - [Slides PDF SVD & PCA](https://drive.google.com/file/d/1H3BFG_zt331_7FOkyzrY8QbAkXr7yxYK/view?usp=sharing)
-    - [Slides PDF PCA & K-Means](https://drive.google.com/file/d/1KvQ61rbPc17aKACzgSAh0Wg4cCqZF_z5/view?usp=sharing)
-    - [Slides PDF Adv Linear Algebra](https://drive.google.com/file/d/111q3oVAx5GJVbCcAgN4jq2Bs54xW3IJZ/view?usp=sharing)
-- Notebooks
-    
-    - [Optional Handwriting Notebook](https://colab.research.google.com/drive/14G-zQT8ykw3QGHTf5Xi_76lK65pBPU1h?usp=sharing)
-    - [KNN, PCA, K-means Notebook](https://colab.research.google.com/drive/143CVREWYGYD2vLb03wW4ncwWuZxWeArw?usp=sharing)
-    - [PCA & SVD Notebook](https://colab.research.google.com/drive/1lIp9tqJ0n4PkbLsbwTLJYCJc4qgwYr6j?usp=sharing)
+  - Lecture Slides
+    - [Slides PDF Polynomial](https://drive.google.com/file/d/1ChnDaCR4AjEhi8G5Bo1zUSrDN0LciwGP/view?usp=sharing)
+    - [Slides PDF OLS](https://drive.google.com/file/d/1FjYx7TnIkw-Clqs8_sDPb8x0xGDmHSPV/view?usp=sharing)
+    - [Slides PDF Logistic Regression](https://drive.google.com/file/d/193E6hU4ufyhrsrkXxXUaTS7W2Djt7MLX/view?usp=sharing)
+    - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/15f_5WL5D3fVk9rS4dh5gaQpb_Nutuf54/view?usp=sharing)
+    - [Slides PDF HPC/SDSC](https://drive.google.com/file/d/1e9juxbo3AclzjgGEpueCu_QBYProOhAi/view?usp=sharing)
+    - [Slides PDF Perceptrons](https://drive.google.com/file/d/1iG0C8VBNbFpHCF6lnGUl-j95h6f_1QP9/view?usp=sharing)
+  - Notebooks
+    - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
+    - [Polynomial Regression Notebook](https://colab.research.google.com/drive/1RTQlBVEt1buifFjp76igPk-awYBS-jer?usp=sharing)
+    - [Processing California Housing Notebook](https://colab.research.google.com/drive/1SkDVZZrFwxzdPUkcIeM2O24WlpQEZUXC?usp=sharing)
+    - [Normality Testing Notebook](https://colab.research.google.com/drive/1jfAxnUzPJ2EjB34lpH06tbOSxbXwSlm5?usp=sharing)
+    - [Perceptron Notebook](https://colab.research.google.com/drive/1tp11HBJKZYkf7Nje-E-iD5qlb_MgMQm_?usp=sharing)
 ## Week 3 Discussion
-- Coming soon!
+  - Coming soon!
 ## Week 4 Discussion
 - Coming soon!
