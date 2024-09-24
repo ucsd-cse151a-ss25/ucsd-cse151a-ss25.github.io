@@ -1,9 +1,8 @@
-# Week 2 - Non-Linear Regression, OLS, and Log Loss
+# Week 5,6 - Non-Linear Regression, OLS, and Log Loss
 - Deadlines:
-  - Quiz 2 Due 7/14/2024
-  - Homework 1 Due 7/14/2024
+  - Homework 3 due by 11/10/2024
 
-## Week 2 Lecture Material
+## Week 5,6 Lecture Material
   - Lecture Slides
     - [Slides PDF Polynomial](https://drive.google.com/file/d/1ChnDaCR4AjEhi8G5Bo1zUSrDN0LciwGP/view?usp=sharing)
     - [Slides PDF OLS](https://drive.google.com/file/d/1FjYx7TnIkw-Clqs8_sDPb8x0xGDmHSPV/view?usp=sharing)
@@ -17,6 +16,7 @@
     - [Processing California Housing Notebook](https://colab.research.google.com/drive/1SkDVZZrFwxzdPUkcIeM2O24WlpQEZUXC?usp=sharing)
     - [Normality Testing Notebook](https://colab.research.google.com/drive/1jfAxnUzPJ2EjB34lpH06tbOSxbXwSlm5?usp=sharing)
     - [Perceptron Notebook](https://colab.research.google.com/drive/1tp11HBJKZYkf7Nje-E-iD5qlb_MgMQm_?usp=sharing)
-## Week 2 Discussion
-  - [Discussion Slides](https://drive.google.com/file/d/1rd3G05plKm6TlRpD2cCiUypNWqStD51L/view?usp=sharing)
-  - [Discussion Notebook](https://colab.research.google.com/drive/1PEHqSgYppuHkkyMnx4Jay89uUc5SCcdb?usp=sharing)
+## Week 5 Discussion
+  - Coming soon!
+## Week 6 Discussion
+- Coming soon!

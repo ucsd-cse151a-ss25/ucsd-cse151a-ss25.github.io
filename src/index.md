@@ -1,6 +1,6 @@
 ![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
 
-# UCSD CSE151A SS1 2024 Syllabus and Logistics
+# UCSD CSE151A Fall 2024 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
@@ -13,15 +13,15 @@
 
 Machine learning has become one of the fastest growing and most interesting subfields of artificial intelligence and computer science. Although machine learning has been part of our daily lives for some time now, it's presence and power has become unprescedented. Machine learning will continue to evolve and revolutionize how we interact with machines, ourselves and the world around us. 
 
-In this course, we'll explore a number of **Machine learning concepts and techniques** that are used commonly by developers in their day-to-day work. You'll learn how to interpret and analyze data, identify targets and plan your machine learning pipeline. This means selecting good/appropriate models and loss functions for training based on your data and goal. We will start with supervised learning (Regression, Classification), go over various loss functions and gradient descent optimization approaches, and end with unsupervised learning (Dimensional reduction, clustering, etc). If there is enough time, we will go over a special topics lecture.
+In this course, we'll explore a number of **Machine learning concepts and techniques** that are used commonly by developers in their day-to-day work. You'll learn how to interpret and analyze data, identify targets and plan your machine learning pipeline. This means selecting good/appropriate models and loss functions for training based on your data and goal. We will start with supervised learning (Regression, Classification), go over various loss functions and gradient descent optimization approaches, cover unsupervised learning (Dimensional reduction, clustering, etc), and end with neural networks (including convolutional neural networks). If there is enough time, we will go over a special topics lecture.
 
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
 
-- Lecture: [Warren Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Monday-Thursday 9:30-10:50am 
-- Discussion: [Warren Hall 2005](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246292?s/WLH_Main?mc/32.88160610711252,-117.23431399999998?z/18?lvl/0?share), Wedneday 11:00a-12:50p
-- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
+- Lecture: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 9:00a-9:50a 
+- Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00a-8:50a
+- “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
 - Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter. Maximum of 1 Make up for Skill Assessments.
@@ -62,7 +62,7 @@ There are several components to the course:
 
 ### Discussion
 
-The course's discussion component meets for 2 hours every Wednesday. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
+The course's discussion component meets for an hour every Friday. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
 The discussion sessions will be led by TAs and tutors, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
@@ -70,11 +70,11 @@ participation in these discussions for credit. At the end of the day you will su
 If you miss discussion, you'll still be held accountable for understanding the
 relevant material via Skill Assessments. You can miss 1 discussion submission
 without it impacting your grade (see [Grading](#grading) below). There is no
-way to make up a dicussion, even for illness, travel, or emergencies. My preference would be to require all 5 discussions for an A, and have some kind of excused absences. However, tracking excused absences doesn't really scale, so the “one for any reason” policy is how we handle it. You don't need to justify your missed discussions. Contact the instructor if you'll miss more than one discussion for unavoidable reasons.
+way to make up a dicussion, even for illness, travel, or emergencies. My preference would be to require all 10 discussions for an A, and have some kind of excused absences. However, tracking excused absences doesn't really scale, so the “one for any reason” policy is how we handle it. You don't need to justify your missed discussions. Contact the instructor if you'll miss more than one discussion for unavoidable reasons.
 
 ### Lecture Sessions
 
-Lecture sessions are on Monday through Thursday.
+Lecture sessions are on Monday, Wednesday, and Friday.
 
 In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub). At the end of lecture you'll have a chance submit your Jupyter Notebook to Gradescope. You can do this by uploading your ipynb file via the Gradescope app (for iOS and Android) or
 through the web interface. To get participation credit for lecture, you have to
@@ -98,7 +98,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-Every Monday starting week 2, homework will release (that's in weeks 2, 3, 4, and 5) and you will submit on Sunday via Gradescope the ipynb file **(Note: Not a pdf!)**. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+Every other Monday, starting week 1, homework will release (that's in weeks 3, 5, 7, and 9) and you will have two weeks to submit via Gradescope the ipynb file **(Note: Not a pdf!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
 For each post, our staff will review it and give a **0-3** score along with feedback:
 
@@ -119,13 +119,11 @@ This is also the only late policy for homework. Unsubmitted reports are initiall
 Several times during the quarter, you will complete a _skill assessment_
 -- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 3, 4 and 5. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
 
-Skill assessments will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation. Scheduling of exams will open on before July 5th, 2024.
+Skill assessments will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
-
-**Skill Assessment Solutions:** [https://canvas.ucsd.edu/courses/57066/pages/skill-assessment-solutions](https://canvas.ucsd.edu/courses/57066/pages/skill-assessment-solutions)
 
 ### Group Projet
 The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details TBA!
@@ -186,7 +184,7 @@ General instructions for skill assessments (not the questions) will be posted in
 You're free to collaborate with others on preparing for
 the skill assessments, trying things out beforehand, and so on.
 
-However, you **CANNOT** share details of _your_ skill assessment with others until the following Saturday. You **CANNOT** communicate with anyone during the week of that skill assessment. i.e. Skill assessment 1 cannot be discussed during the entirety of week 2 and so forth.
+However, you **CANNOT** share details of _your_ skill assessment with others until the following Saturday. You **CANNOT** communicate with anyone during the week of that skill assessment. i.e. Skill assessment 1 cannot be discussed during the entirety of week 3 and so forth.
 
 ### Quizzes and Academic Integrity
 
@@ -246,7 +244,7 @@ grade, but do take them seriously before the end of the week so you're prepared.
 
 **I missed a homework deadline, what should I do?**
 
-A week after each homework deadline there is a late/resubmission deadline (except for week 5 homework).
+A week after each homework deadline there is a late/resubmission deadline (except for the last homework).
 You can resubmit then. See the homework section above for grading details
 about resubmissions.
 
