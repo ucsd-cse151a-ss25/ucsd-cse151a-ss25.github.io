@@ -4,8 +4,8 @@
 
 ## Week 1,2 Lecture Material
   - Lecture Slides 
-    - [Slides PDF Syllabus](https://drive.google.com/file/d/1Z1YAuV2wc8WJWwqeefyKtFC56LdOwCSY/view?usp=sharing) 
-    - [Slides PDF Introduction](https://drive.google.com/file/d/19pqHuwniVynCsjlvVNvaXG5mYo_dvq3F/view?usp=sharing)
+    - [Slides PDF Syllabus](https://drive.google.com/file/d/1bmYBbKIJqgB9YjW7oQdarffq9VP6gWHk/view?usp=sharing) 
+    - [Slides PDF Introduction](https://drive.google.com/file/d/18pqxqHAszuTCxteYzFYsGIWfKnNbsrLW/view?usp=sharing)
     - [Slides PDF Regression](https://drive.google.com/file/d/1aC1OjxVgIUmKyj7jbHoldeh-7EO4Kgwy/view?usp=sharing)
     - Slides PDF Intro to Numpy
   - Week 1 Notebooks
