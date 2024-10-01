@@ -21,10 +21,10 @@ This web page serves as the main source of announcements and resources for the c
 
 - Lecture: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 9:00a-9:50a 
 - Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00a-8:50a
-- “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9
+- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 4, 6 and 8
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
-- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter. Maximum of 1 Make up for Skill Assessments.
+- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 10. Maximum of 1 Make up for Skill Assessments.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
