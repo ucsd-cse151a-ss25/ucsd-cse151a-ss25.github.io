@@ -98,7 +98,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-Every other Monday, starting week 1, homework will release (that's in weeks 3, 5, 7, and 9) and you will have two weeks to submit via Gradescope the ipynb file **(Note: Not a pdf!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the ipynb file **(Note: Not a pdf!)**. Note that hw 5 will have only one week to complete. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
 For each post, our staff will review it and give a **0-3** score along with feedback:
 

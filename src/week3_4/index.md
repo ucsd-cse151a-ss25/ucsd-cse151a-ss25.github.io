@@ -1,6 +1,6 @@
 # Week 3,4 - Non-Linear Regression, OLS, and Log Loss
 - Deadlines:
-  - Homework 2 due by 10/27/2024
+  - Homework 2 due by 11/03/2024
 
 ## Week 3,4 Lecture Material
   - Lecture Slides

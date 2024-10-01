@@ -1,6 +1,6 @@
 # Week 7,8 - Classification: SVMs, Naive Bayes, KNN and Decision Trees
 - Deadlines:
-    - Homework 4 due by 11/24/2024
+    - Homework 4 due by 12/01/2024
 
 ## Week 7,8 Lecture Material
 - Lecture Slides
