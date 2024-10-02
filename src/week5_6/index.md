@@ -1,6 +1,4 @@
 # Week 5,6 - Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction
-- Deadlines:
-    - Homework 3 due by 11/17/2024
 
 ## Week 5,6 Lecture Material
 - Lecture Slides

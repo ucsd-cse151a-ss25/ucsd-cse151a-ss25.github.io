@@ -1,6 +1,4 @@
 # Week 9,10 - Neural Networks: ANNs, DNNs, and CNNs
-- Deadlines:
-    - Homework 5 due by 12/08/2024
 
 ## Week 9,10 Lecture Material
 - Lecture Slides

@@ -1,6 +1,4 @@
 # Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression
-- Deadlines:
-  - Homework 1 due by 10/20/2024
 
 ## Week 1,2 Lecture Material
   - Lecture Slides 

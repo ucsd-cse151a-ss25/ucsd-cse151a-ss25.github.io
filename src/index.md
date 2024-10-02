@@ -121,7 +121,7 @@ Several times during the quarter, you will complete a _skill assessment_
 
 On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 4, 6 and 8. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
 
-Skill assessments will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
+Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
 
