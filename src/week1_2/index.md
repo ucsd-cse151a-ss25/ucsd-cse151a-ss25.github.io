@@ -12,7 +12,8 @@
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - More coming soon!
 ## Week 1 Discussion
-  - Coming Soon!
+  - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
+  - [Notebook](https://colab.research.google.com/drive/1tZnVj343chyHFzCrZu2TrxMVE44cishj)
 ## Week 2 Discussion
   - Coming Soon!
 
