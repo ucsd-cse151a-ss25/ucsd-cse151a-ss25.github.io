@@ -32,8 +32,13 @@ This web page serves as the main source of announcements and resources for the c
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
+  - The first is available as an e-book through the library website; the rest are on reserve at Geisel:
+    - Trevor Hastie, Robert Tibshirani, and Jerome Friedman, The elements of statistical learning (2nd edition).
+    - Gilbert Strang. Linear algebra and its applications .
+    - Kevin Murphy, Machine learning: a probabilistic perspective.
+    - Richard Duda, Peter Hart, and David Stork, Pattern classification (2nd edition).
+  - Above resources are from Dr. Dasgupta
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
-  - Not free: TBA
 - Data Repositories:
   - [UCI Machine Learning Data Repo](https://archive.ics.uci.edu/ml/index.php)
   - [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)
