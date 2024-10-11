@@ -14,5 +14,6 @@
   - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
   - [Notebook](https://colab.research.google.com/drive/1tZnVj343chyHFzCrZu2TrxMVE44cishj)
 ## Week 2 Discussion
-  - Coming Soon!
+  - [Slides](https://drive.google.com/file/d/10yn9E3U7tFW0lkSjsVUrzHqMxEq-TG_f/view?usp=sharing)
+  - [Notebook](https://colab.research.google.com/drive/1UIZZS_0Lb9NcdwoX-HTydPfCq52OCfFH?usp=sharing)
 
