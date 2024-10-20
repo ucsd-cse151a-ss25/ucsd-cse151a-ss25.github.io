@@ -1,15 +1,15 @@
-# Week 7,8 - Classification: SVMs, Naive Bayes, KNN and Decision Trees
+# Week 7,8 - Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction
 
 ## Week 7,8 Lecture Material
 - Lecture Slides
-    - [Slides PDF SVMs](https://drive.google.com/file/d/1-VgctP2ZEl3_yDXrJtMPHj7WtfnaGTPf/view?usp=sharing)
-    - [Slides PDF Naive Bayes](https://drive.google.com/file/d/1xgemXzQeDRfBVJZzQSg1n0UJnRIyACKF/view?usp=sharing)
-    - [Slides PDF Decision Trees](https://drive.google.com/file/d/1MwscOwtQ7eePDK3WpS4TB5DjkIxn0rdt/view?usp=sharing)
+    - [Slides PDF KNNs](https://drive.google.com/file/d/1lLXjZ9w9js5n3_bfDIKN3WEkhU5zJgCd/view?usp=sharing)
+    - [Slides PDF SVD & PCA](https://drive.google.com/file/d/1H3BFG_zt331_7FOkyzrY8QbAkXr7yxYK/view?usp=sharing)
+    - [Slides PDF PCA & K-Means](https://drive.google.com/file/d/1KvQ61rbPc17aKACzgSAh0Wg4cCqZF_z5/view?usp=sharing)
+    - [Slides PDF Adv Linear Algebra](https://drive.google.com/file/d/111q3oVAx5GJVbCcAgN4jq2Bs54xW3IJZ/view?usp=sharing)
 - Notebooks
-    - [Decision Tree Notebook](https://colab.research.google.com/drive/1OptVsB2DknM0rG3sQdZ-BIz7Vseu5fum?usp=sharing)
-    - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
-    - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
-    - [Decision Tree Scratch Notebook](https://colab.research.google.com/drive/1PKweOlRDaFI8GZ222odxu2pztfsBV98l?usp=sharing)
+    - [Optional Handwriting Notebook](https://colab.research.google.com/drive/14G-zQT8ykw3QGHTf5Xi_76lK65pBPU1h?usp=sharing)
+    - [KNN, PCA, K-means Notebook](https://colab.research.google.com/drive/143CVREWYGYD2vLb03wW4ncwWuZxWeArw?usp=sharing)
+    - [PCA & SVD Notebook](https://colab.research.google.com/drive/1lIp9tqJ0n4PkbLsbwTLJYCJc4qgwYr6j?usp=sharing)
 ## Week 7 Discussion
 - Coming soon!
 ## Week 8 Discussion
