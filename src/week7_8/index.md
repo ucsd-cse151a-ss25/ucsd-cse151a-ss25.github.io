@@ -11,6 +11,7 @@
     - [KNN, PCA, K-means Notebook](https://colab.research.google.com/drive/143CVREWYGYD2vLb03wW4ncwWuZxWeArw?usp=sharing)
     - [PCA & SVD Notebook](https://colab.research.google.com/drive/1lIp9tqJ0n4PkbLsbwTLJYCJc4qgwYr6j?usp=sharing)
 ## Week 7 Discussion
-- Coming soon!
+- [Slides](https://drive.google.com/file/d/1LRThy4rEi5QRJEc-z4ZNO1Sc1RwhEyi4/view?usp=sharing)
+- [Notebook](https://colab.research.google.com/drive/1K6yAVZ6HTDcGo-Lch2VPABnqgVKF-9uu?usp=sharing)
 ## Week 8 Discussion
 - Coming soon!
