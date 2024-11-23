@@ -14,5 +14,3 @@
     - [Gradient Descent Notebook](https://colab.research.google.com/drive/13h1k8yXHqp7kPX6ljmayG-HFip6H_lxY?usp=sharing)
 ## Week 9 Discussion
 - Coming soon!
-## Week 10 Discussion
-- Coming soon!
