@@ -21,10 +21,10 @@ This web page serves as the main source of announcements and resources for the c
 
 - Lecture: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday through Thursday 8:00a-9:20a 
 - Discussion: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 9:00a-10:50a
-- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 4, 6 and 8
+- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
-- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 10. Maximum of 1 Make up for Skill Assessments.
+- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on the end of week 5. Maximum of 1 Make up for Skill Assessments.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
@@ -102,35 +102,37 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. Note that hw 5 will have only one week to complete. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. Note that hw 5 will have only one week to complete. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random. I highly recommend coding your own ML algorithmic implmentations and using libraries only for checking your work. This will greatly help you for your skill assessments, as you will be expected to code core ML algorithms without imports. The only imports allowed for Skill Assessments are numpy and pandas.
 
-For each post, our staff will review it and give a **0-3** score along with feedback:
+For each post, our staff will review it and give a **0-4** score along with feedback. This values will be based on thresholding your points:
 
-- **3** for a complete submission of professional quality that covers all the expectations listed in the directions
-- **2** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
-- **1** for a submission missing key components, or clear inaccuracies in multiple components
-- **0** for no submission, a blank submission, or a submission of something irrelevant
+- **4** for a complete submission of professional quality that covers all the expectations listed in the directions (Generally Points >= 90)
+- **3** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting (Generally Points >= 80)
+- **2** for a complete submission with major mistakes, some unclear writing, or some confusing or nonstandard formatting (Generally Points >= 70)
+- **1** for a submission missing key components, or clear inaccuracies in multiple components (Generally Points >= 60)
+- **0** for no submission, a blank submission, or a submission of something irrelevant (Generally Points < 60)
 
 After each homework (**except the last homework**) is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
 
-- For an original score of **0** or **1**, you can raise your score to **2** (but not to **3**)
-- For an original score of **2**, you can raise your score to **3**
+- For an original score of **0** or **1**, you can raise your score to **2** (but not to **4**)
+- For an original score of **2**, you can raise your score to **4**
 
-This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. One homework will be dropped. This is the only policy for excused homework regardless of the reason.
+This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. **Only** one homework will be dropped. This is the only policy for excused homework regardless of the reason. **NO LATE SUBMISSIONS WILL BE ACCEPTED!!! PERIOD!**
 
 ### Skill Assessments
 
 Several times during the quarter, you will complete a _skill assessment_
 -- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 4, 6 and 8. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 3, 4 and 5. You will be able to choose a scheduled time each week on the PrairieTest website. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
 
 Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
 
 ### Group Projet
-The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details TBA!
+The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details on Canvas, and submission details on Gradescope! 
+Note: Students will get to choose their group partners at **every submission***. This allows students to vote out deadbeat partners that do not participate in the submission.
 
 ## Grading
 
@@ -150,14 +152,16 @@ C | < 77% to 74%
 C-| < 74% to 70%
 D |< 70% to 60% 
 F | < 60%
+**Note: A+'s will be limited and given out at the end of the quarter to the highest scoring students prior to drops, resubmissions and makeups**
 
 The weighted breakdown of each category is as follows:
 
 | Category | Percentage |
 | --- | --- |
-Participation | 5%
+Lecture Participation | 7%
+Discussion Participation | 3%
 Quizzes | 10%
-Homeworks | 20%
+Homeworks | 15%
 Group Project | 30%
 Skill Assessments | 35%
 
