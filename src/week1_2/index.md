@@ -10,8 +10,8 @@
     - [CA Housing Notebook](https://colab.research.google.com/drive/1jgNKGCGIkKaBXAAfRxOAhNSO4b4B7Bo2?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - More coming soon!
-## Week 1 Discussion
-  - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
+## Week 1 Discussion TBA
+<!--  - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
   - [Notebook](https://colab.research.google.com/drive/1tZnVj343chyHFzCrZu2TrxMVE44cishj)
 ## Week 2 Discussion
   - [Slides](https://drive.google.com/file/d/10yn9E3U7tFW0lkSjsVUrzHqMxEq-TG_f/view?usp=sharing)
