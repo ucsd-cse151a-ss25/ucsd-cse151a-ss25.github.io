@@ -1,6 +1,8 @@
-# Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression
+# Week 1 - Data, Numpy, Matrices, Error/Loss functions and Regression
 
-## Week 1,2 Lecture Material
+## Week 1 Lecture Material
+  - Required Coding Material
+    - [Intro to Python bootcamp](https://canvas.ucsd.edu/courses/66898/pages/python-resources)
   - Lecture Slides 
     - [Slides PDF Syllabus](https://drive.google.com/file/d/1bmYBbKIJqgB9YjW7oQdarffq9VP6gWHk/view?usp=sharing) 
     - [Slides PDF Introduction](https://drive.google.com/file/d/18pqxqHAszuTCxteYzFYsGIWfKnNbsrLW/view?usp=sharing)
