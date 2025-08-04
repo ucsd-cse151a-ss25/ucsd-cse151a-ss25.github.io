@@ -6,4 +6,4 @@ mdbook serve
 
 Repository builds and deploys automatically to github pages on push (see `.github/` directory).
 
-Website is live at https://ucsd-cse151a-f24.github.io.
+Website is live at https://ucsd-cse151a-ss25.github.io.
