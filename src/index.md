@@ -1,6 +1,6 @@
 ![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
 
-# UCSD CSE151A Fall 2024 Syllabus and Logistics
+# UCSD CSE151A Summer Session II 2025 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
