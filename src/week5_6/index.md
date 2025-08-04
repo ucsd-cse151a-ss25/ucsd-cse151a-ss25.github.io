@@ -12,7 +12,8 @@
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
     - [Decision Tree Scratch Notebook](https://colab.research.google.com/drive/1PKweOlRDaFI8GZ222odxu2pztfsBV98l?usp=sharing)
-## Week 5 Discussion
+## Week 5 Discussion TBA
+<!--
 - [Slides](https://drive.google.com/file/d/1tVfwSoBPsZyJgLUVCXj_-iOBfl4G-1VE/view?usp=sharing)
 - [Notebook](https://colab.research.google.com/drive/1PefCFZWEqd_QVf1eiLq0z_AChuLAKJgB?usp=sharing)
 ## Week 6 Discussion
