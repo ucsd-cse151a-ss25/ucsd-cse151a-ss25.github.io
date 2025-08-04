@@ -4,9 +4,9 @@
   - Required Coding Material
     - [Intro to Python bootcamp](https://canvas.ucsd.edu/courses/66898/pages/python-resources)
   - Lecture Slides 
-    - [Slides PDF Syllabus](https://drive.google.com/file/d/1bmYBbKIJqgB9YjW7oQdarffq9VP6gWHk/view?usp=sharing) 
-    - [Slides PDF Introduction](https://drive.google.com/file/d/18pqxqHAszuTCxteYzFYsGIWfKnNbsrLW/view?usp=sharing)
-    - [Slides PDF Regression](https://drive.google.com/file/d/1aC1OjxVgIUmKyj7jbHoldeh-7EO4Kgwy/view?usp=sharing)
+    - [Slides PDF Syllabus](https://drive.google.com/file/d/1MmOGyJotm0R3v3d0a4_3opgoIhidaUDI/view?usp=sharing)
+    - [Slides PDF Introduction](https://drive.google.com/file/d/149CUk1-JykgHbHcNpPCgqQBf73F0nu-g/view?usp=sharing)
+    - [Slides PDF Regression](https://drive.google.com/file/d/1Ob8FvPxLI4Eip55X0wsCmn_XJLhwyunZ/view?usp=sharing)
   - Week 1 Notebooks
     - [Notebook Tutorial Notebook](https://colab.research.google.com/drive/1NGS-A5nUNNaTo2hq-mfcIty_BHXZkbPJ?usp=sharing)
     - [CA Housing Notebook](https://colab.research.google.com/drive/1jgNKGCGIkKaBXAAfRxOAhNSO4b4B7Bo2?usp=sharing)
