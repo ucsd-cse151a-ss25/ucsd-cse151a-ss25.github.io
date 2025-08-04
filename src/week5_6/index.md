@@ -1,6 +1,6 @@
-# Week 5,6 - Classification: SVMs, Naive Bayes, KNN and Decision Trees
+# Week 3 - Classification: SVMs, Naive Bayes, KNN and Decision Trees
 
-## Week 5,6 Lecture Material
+## Week 3 Lecture Material
 - Lecture Slides
     - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1NcqyhVgYG2NrtsFRkuT_Rcf9ICWkxiIC/view?usp=sharing)
     - [Slides PDF SVMs](https://drive.google.com/file/d/1-VgctP2ZEl3_yDXrJtMPHj7WtfnaGTPf/view?usp=sharing)
@@ -12,7 +12,7 @@
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
     - [Decision Tree Scratch Notebook](https://colab.research.google.com/drive/1PKweOlRDaFI8GZ222odxu2pztfsBV98l?usp=sharing)
-## Week 5 Discussion TBA
+## Week 3 Discussion TBA
 <!--
 - [Slides](https://drive.google.com/file/d/1tVfwSoBPsZyJgLUVCXj_-iOBfl4G-1VE/view?usp=sharing)
 - [Notebook](https://colab.research.google.com/drive/1PefCFZWEqd_QVf1eiLq0z_AChuLAKJgB?usp=sharing)
