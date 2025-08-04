@@ -19,7 +19,7 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 9:00a-9:50a 
+- Lecture: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday through Thursday 8:00a-8:50a 
 - Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00a-8:50a
 - “Skill Assessments” Exams: Flexible scheduling in weeks 2, 4, 6 and 8
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
