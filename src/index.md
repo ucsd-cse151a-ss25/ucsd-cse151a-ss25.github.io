@@ -114,8 +114,9 @@ For each post, our staff will review it and give a **0-4** score along with feed
 
 After each homework (**except the last homework**) is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
 
-- For an original score of **0** or **1**, you can raise your score to **2** (but not to **4**)
-- For an original score of **2**, you can raise your score to **4**
+- For an original score of **0**, you can raise your score up to **2** (but not to **3** or **4**)
+- For an original score of **1**, you can raise your score up to **3** (but not to **4**)
+- For an original score of **2**, you can raise your score up to **4**
 
 This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. **Only** one homework will be dropped. This is the only policy for excused homework regardless of the reason. **NO LATE SUBMISSIONS WILL BE ACCEPTED!!! PERIOD!**
 
