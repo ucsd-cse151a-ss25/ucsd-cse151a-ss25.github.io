@@ -3,11 +3,13 @@
 ## Week 2 Lecture Material
   - Lecture Slides
     - [Slides PDF Ordinary Least Squares Optimization Method](https://drive.google.com/file/d/1-kXcUa1Njd6b_jiwQRTLq9TFu3W2BEgZ/view?usp=sharing)
+    - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1NcqyhVgYG2NrtsFRkuT_Rcf9ICWkxiIC/view?usp=sharing)
     - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/15f_5WL5D3fVk9rS4dh5gaQpb_Nutuf54/view?usp=sharing)
     - [Slides PDF Polynomial](https://drive.google.com/file/d/1ChnDaCR4AjEhi8G5Bo1zUSrDN0LciwGP/view?usp=sharing)
     - [Slides PDF Logistic Regression](https://drive.google.com/file/d/193E6hU4ufyhrsrkXxXUaTS7W2Djt7MLX/view?usp=sharing)
     - [Slides PDF HPC/SDSC](https://drive.google.com/file/d/1e9juxbo3AclzjgGEpueCu_QBYProOhAi/view?usp=sharing)
   - Notebooks
+    - [Gradient Descent Notebook](https://colab.research.google.com/drive/13h1k8yXHqp7kPX6ljmayG-HFip6H_lxY?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [Polynomial Regression Notebook](https://colab.research.google.com/drive/1RTQlBVEt1buifFjp76igPk-awYBS-jer?usp=sharing)
     - [Processing California Housing Notebook](https://colab.research.google.com/drive/1SkDVZZrFwxzdPUkcIeM2O24WlpQEZUXC?usp=sharing)
