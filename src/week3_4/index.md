@@ -14,6 +14,9 @@
     - [Polynomial Regression Notebook](https://colab.research.google.com/drive/1RTQlBVEt1buifFjp76igPk-awYBS-jer?usp=sharing)
     - [Processing California Housing Notebook](https://colab.research.google.com/drive/1SkDVZZrFwxzdPUkcIeM2O24WlpQEZUXC?usp=sharing)
     - [Normality Testing Using Diabetes Data Notebook](https://colab.research.google.com/drive/1jfAxnUzPJ2EjB34lpH06tbOSxbXwSlm5?usp=sharing)
+  - Worksheets
+    - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
+  
 ## Week 2 Discussion TBA
 <!--
   - [Slides](https://drive.google.com/file/d/1npFk47PKXAUy1_Xegot8UF5slWbII7YR/view?usp=sharing)
