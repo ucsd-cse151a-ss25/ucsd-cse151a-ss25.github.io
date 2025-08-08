@@ -11,6 +11,10 @@
     - [Notebook Tutorial Notebook](https://colab.research.google.com/drive/1NGS-A5nUNNaTo2hq-mfcIty_BHXZkbPJ?usp=sharing)
     - [CA Housing Notebook](https://colab.research.google.com/drive/1jgNKGCGIkKaBXAAfRxOAhNSO4b4B7Bo2?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
+  - Worksheets
+    - [Linear Algebra Practice Worksheet](https://drive.google.com/file/d/12s87eg8uhhKE4bj88Z-gfebSls136Xtu/view?usp=sharing)
+    - [Linear Regression Practice Worksheet](https://drive.google.com/file/d/1j6MW2jw4zkK6ZmqrnDcVhnULgBPmL4XP/view?usp=sharing)
+    - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
 ## Week 1 Discussion TBA
 <!--  - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
   - [Notebook](https://colab.research.google.com/drive/1tZnVj343chyHFzCrZu2TrxMVE44cishj)
