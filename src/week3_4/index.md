@@ -4,7 +4,7 @@
   - Lecture Slides
     - [Slides PDF Ordinary Least Squares Optimization Method](https://drive.google.com/file/d/1-kXcUa1Njd6b_jiwQRTLq9TFu3W2BEgZ/view?usp=drive_link)
     - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1y0o77GRZnSAdMbg0xBwzQo3AZIHfEU3P/view?usp=sharing)
-    - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/1mktRyk48fBDQqRgxZDc1anNVtEYk0l1w/view?usp=drive_link)
+    - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/1mktRyk48fBDQqRgxZDc1anNVtEYk0l1w/view?usp=sharing)
     - [Slides PDF Polynomial](https://drive.google.com/file/d/1t7hbJuLbEbUfMyuxcqpi37EmXTpLjHPp/view?usp=sharing)
     - [Slides PDF Logistic Regression](https://drive.google.com/file/d/1s0Kb3426hG_l4rW9fH8EpwjS0rmxISK8/view?usp=sharing)
     - [Slides PDF HPC/SDSC](https://drive.google.com/file/d/1e9juxbo3AclzjgGEpueCu_QBYProOhAi/view?usp=sharing)
