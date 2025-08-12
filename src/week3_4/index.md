@@ -7,7 +7,7 @@
     - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/1mktRyk48fBDQqRgxZDc1anNVtEYk0l1w/view?usp=drive_link)
     - [Slides PDF Polynomial](https://drive.google.com/file/d/1t7hbJuLbEbUfMyuxcqpi37EmXTpLjHPp/view?usp=sharing)
     - [Slides PDF Logistic Regression](https://drive.google.com/file/d/1s0Kb3426hG_l4rW9fH8EpwjS0rmxISK8/view?usp=sharing)
-    - [Slides PDF HPC/SDSC]()
+    - [Slides PDF HPC/SDSC](https://drive.google.com/file/d/1e9juxbo3AclzjgGEpueCu_QBYProOhAi/view?usp=sharing)
   - Notebooks
     - [Gradient Descent Notebook](https://colab.research.google.com/drive/13h1k8yXHqp7kPX6ljmayG-HFip6H_lxY?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
