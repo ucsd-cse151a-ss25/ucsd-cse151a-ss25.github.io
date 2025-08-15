@@ -18,10 +18,10 @@
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
   
 ## Week 2 Discussion TBA
-  - [Slides](https://drive.google.com/file/d/1xpJK75G_bjNRTz8jp34nt4h760pTbbSq/view?usp=drive_link)
+  - [Slides](https://drive.google.com/file/d/1DszFLeg_IthjnUSKIbsrkHRZelnw7K2A/view?usp=drive_link)
   - [Notebook](https://drive.google.com/file/d/1xpJK75G_bjNRTz8jp34nt4h760pTbbSq/view?usp=sharing)
 <!--
-  - [Slides](https://drive.google.com/file/d/1npFk47PKXAUy1_Xegot8UF5slWbII7YR/view?usp=sharing)
+  - [Slides](https://drive.google.com/file/d/1DszFLeg_IthjnUSKIbsrkHRZelnw7K2A/view?usp=drive_link)
   - [Notebook](https://colab.research.google.com/drive/142p_WNTQm6IGoN7tlLybKJQ31o_d4uUV?usp=sharing)
 ## Week 4 Discussion
 - [Slides](https://drive.google.com/file/d/1esQW-RlZfJUmBuOjjLJdc2fI-tHpx5F2/view?usp=sharing)
