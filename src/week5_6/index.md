@@ -2,9 +2,10 @@
 
 ## Week 3 Lecture Material
 - Lecture Slides
-    - [Slides PDF SVMs](https://drive.google.com/file/d/1-VgctP2ZEl3_yDXrJtMPHj7WtfnaGTPf/view?usp=sharing)
-    - [Slides PDF Naive Bayes](https://drive.google.com/file/d/1xgemXzQeDRfBVJZzQSg1n0UJnRIyACKF/view?usp=sharing)
-    - [Slides PDF Decision Trees](https://drive.google.com/file/d/1MwscOwtQ7eePDK3WpS4TB5DjkIxn0rdt/view?usp=sharing)
+    - [Slides PDF SVMs](https://drive.google.com/file/d/1lcBMO3f261syydqj8r0xEoU4qaIvPd5y/view?usp=sharing)
+    - [Slides PDF Naive Bayes](https://drive.google.com/file/d/1WpLHeOAW2n1B9_DcLvwzytAx2ME9_PK3/view?usp=sharing)
+    - [Slides PDF Decision Trees](https://drive.google.com/file/d/1dLZ_KnupHEHkSQ7ncm3AsbKhmy6Zy7YU/view?usp=sharing)
+    - [Slides PDF K-Nearest Neighbors](https://drive.google.com/file/d/1MOfv-3MUhmljkTD4jAfYSoA76db5-u3Q/view?usp=sharing)
 - Notebooks
     - [Decision Tree Notebook](https://colab.research.google.com/drive/1OptVsB2DknM0rG3sQdZ-BIz7Vseu5fum?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
