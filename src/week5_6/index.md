@@ -7,12 +7,15 @@
     - [Slides PDF Naive Bayes](https://drive.google.com/file/d/1WpLHeOAW2n1B9_DcLvwzytAx2ME9_PK3/view?usp=sharing)
     - [Slides PDF Decision Trees](https://drive.google.com/file/d/1dLZ_KnupHEHkSQ7ncm3AsbKhmy6Zy7YU/view?usp=sharing)
     - [Slides PDF K-Nearest Neighbors](https://drive.google.com/file/d/1MOfv-3MUhmljkTD4jAfYSoA76db5-u3Q/view?usp=sharing)
+    - [Classification Loss Functions](https://drive.google.com/file/d/1W8TrD_CtBSI5iBZ2U8otsfnshS1JSQ0t/view?usp=sharing)
 - Notebooks
     - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
     - [Linear SVM Starter Code](https://colab.research.google.com/drive/1og4puP2HKl1oNd1WpepOnOeJ50sJ6UkH?usp=sharing)
     - [BCC Data Notebook](https://colab.research.google.com/drive/1ksEGL7SJ_wutCIyPYx7Loe5EPdOij6dJ?usp=sharing)
     - [Decision Tree Notebook](https://colab.research.google.com/drive/1OptVsB2DknM0rG3sQdZ-BIz7Vseu5fum?usp=sharing)
     - [Decision Tree Scratch Notebook](https://colab.research.google.com/drive/1PKweOlRDaFI8GZ222odxu2pztfsBV98l?usp=sharing)
+- Worksheets
+    - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
 ## Week 3 Discussion TBA
 <!--
 - [Slides](https://drive.google.com/file/d/1tVfwSoBPsZyJgLUVCXj_-iOBfl4G-1VE/view?usp=sharing)
