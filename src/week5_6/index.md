@@ -3,6 +3,7 @@
 ## Week 3 Lecture Material
 - Lecture Slides
     - [Slides PDF SVMs](https://drive.google.com/file/d/1lcBMO3f261syydqj8r0xEoU4qaIvPd5y/view?usp=sharing)
+    - [Slides PDF SVM Optimization](https://drive.google.com/file/d/1an3mPRIApKnstBkSpqAv8ghC1m7hhGWi/view?usp=sharing)
     - [Slides PDF Naive Bayes](https://drive.google.com/file/d/1WpLHeOAW2n1B9_DcLvwzytAx2ME9_PK3/view?usp=sharing)
     - [Slides PDF Decision Trees](https://drive.google.com/file/d/1dLZ_KnupHEHkSQ7ncm3AsbKhmy6Zy7YU/view?usp=sharing)
     - [Slides PDF K-Nearest Neighbors](https://drive.google.com/file/d/1MOfv-3MUhmljkTD4jAfYSoA76db5-u3Q/view?usp=sharing)
