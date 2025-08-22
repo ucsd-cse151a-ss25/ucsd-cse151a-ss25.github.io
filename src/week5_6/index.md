@@ -16,7 +16,8 @@
     - [Decision Tree Scratch Notebook](https://colab.research.google.com/drive/1PKweOlRDaFI8GZ222odxu2pztfsBV98l?usp=sharing)
 - Worksheets
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
-## Week 3 Discussion TBA
+## Week 3 Discussion
+- [Notebook](https://drive.google.com/file/d/1nnm2uJ1FBJ6KkpVil1ZKXbLjqnxNzAC1/view?usp=sharing)
 <!--
 - [Slides](https://drive.google.com/file/d/1tVfwSoBPsZyJgLUVCXj_-iOBfl4G-1VE/view?usp=sharing)
 - [Notebook](https://colab.research.google.com/drive/1PefCFZWEqd_QVf1eiLq0z_AChuLAKJgB?usp=sharing)
