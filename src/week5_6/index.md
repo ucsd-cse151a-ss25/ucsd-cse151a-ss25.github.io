@@ -8,6 +8,7 @@
     - [Slides PDF Decision Trees](https://drive.google.com/file/d/1dLZ_KnupHEHkSQ7ncm3AsbKhmy6Zy7YU/view?usp=sharing)
     - [Slides PDF K-Nearest Neighbors](https://drive.google.com/file/d/1MOfv-3MUhmljkTD4jAfYSoA76db5-u3Q/view?usp=sharing)
     - [Classification Loss Functions](https://drive.google.com/file/d/1W8TrD_CtBSI5iBZ2U8otsfnshS1JSQ0t/view?usp=sharing)
+    - [Slides PDF KNNs](https://drive.google.com/file/d/1lLXjZ9w9js5n3_bfDIKN3WEkhU5zJgCd/view?usp=sharing)
 - Notebooks
     - [SVM Notebook](https://colab.research.google.com/drive/1dJ7MmruKZAhBEYyUvh63IRHo5XWEHUO2?usp=sharing)
     - [Linear SVM Starter Code](https://colab.research.google.com/drive/1og4puP2HKl1oNd1WpepOnOeJ50sJ6UkH?usp=sharing)
