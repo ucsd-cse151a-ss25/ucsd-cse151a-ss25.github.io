@@ -2,7 +2,7 @@
 
 ## Week 4 Lecture Material
 - Lecture Slides
-    - [Slides PDF Adv Linear Algebra](https://drive.google.com/file/d/111q3oVAx5GJVbCcAgN4jq2Bs54xW3IJZ/view?usp=sharing)
+    - [Slides PDF Adv Linear Algebra](https://drive.google.com/file/d/1378NzD2U-N0y5QfA4gHKGzC7nrD_TFgG/view?usp=sharing)
     - [Slides PDF SVD & PCA](https://drive.google.com/file/d/1H3BFG_zt331_7FOkyzrY8QbAkXr7yxYK/view?usp=sharing)
     - [Slides PDF PCA & K-Means](https://drive.google.com/file/d/1KvQ61rbPc17aKACzgSAh0Wg4cCqZF_z5/view?usp=sharing)
 - Notebooks
