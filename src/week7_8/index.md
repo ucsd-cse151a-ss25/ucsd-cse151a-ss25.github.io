@@ -4,7 +4,7 @@
 - Lecture Slides
     - [Slides PDF Adv Linear Algebra](https://drive.google.com/file/d/1378NzD2U-N0y5QfA4gHKGzC7nrD_TFgG/view?usp=sharing)
     - [Slides PDF PCA & K-Means Intro](https://drive.google.com/file/d/1oR6NlQ0KkAwAr-eDwj5s4KAF6itsH24M/view?usp=drive_link)
-    - [Slides PDF SVD & PCA](https://drive.google.com/file/d/1UXSCTPuxrodZmMOcSvMeSoEKSJxGsRmp/view?usp=drive_link)
+    - [Slides PDF SVD & PCA](https://drive.google.com/file/d/1-316-gzXQ3TYdHaQISbFh-lzkoLEifUv/view?usp=sharing)
     - [Slides PDF Implementing Unsupervised Learning Approaches](https://drive.google.com/file/d/1iR_kaxdMpfv7lzBDW-IWRuu6HuRGW2fz/view?usp=drive_link)
 - Notebooks
     - [KNN, PCA, K-means Notebook](https://colab.research.google.com/drive/143CVREWYGYD2vLb03wW4ncwWuZxWeArw?usp=sharing)
