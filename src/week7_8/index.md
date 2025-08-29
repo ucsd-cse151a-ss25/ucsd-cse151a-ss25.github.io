@@ -11,6 +11,7 @@
     - [PCA & SVD Notebook](https://colab.research.google.com/drive/1lIp9tqJ0n4PkbLsbwTLJYCJc4qgwYr6j?usp=sharing)
     - [Optional Handwriting Notebook](https://colab.research.google.com/drive/1WbfmOQ8O4MpR_XfmqDRTaC3kEX_4joz5?usp=sharing)
 ## Week 4 Discussion TBA
+- [Week 4 Notebook](https://drive.google.com/file/d/1e6uq-ANYLTDEC-p9WMVY3innJ42AYtEC/view?usp=sharing)
 <!--
 - [Slides](https://drive.google.com/file/d/1LRThy4rEi5QRJEc-z4ZNO1Sc1RwhEyi4/view?usp=sharing)
 - [Notebook](https://colab.research.google.com/drive/1K6yAVZ6HTDcGo-Lch2VPABnqgVKF-9uu?usp=sharing)
